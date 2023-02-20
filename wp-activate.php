@@ -5,7 +5,7 @@
  *
  * @package WordPress
  */
-
+qirat fatima bhojani
 define( 'WP_INSTALLING', true );
 
 /** Sets up the WordPress Environment. */
